@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! I’m Atinuke Gloria Olugesin, a data analyst and aspiring machine learning engineer with a Master’s in Computer Science and over 6 years of experience in ICT, data analytics, and capacity building. I’m currently enhancing my skills through practical AI/ML courses and building hands-on projects in Python and Power BI.
 
 ## 🧠 Current Focus
-- Machine Learning A–Z™: Hands-On Python & R (Udemy)
+- Machine Learning A–Z™: Hands-On Python & R 
 - Building end-to-end data analysis pipelines
 - Developing dashboards and visual reports with Power BI and Excel
 - Preparing for research-based PhD in AI/ML
