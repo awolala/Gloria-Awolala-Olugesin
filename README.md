@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Gloria Olugesin – Data Analyst | AI Enthusiast
+# 👩🏽‍💻 Gloria Awolala-Olugesin – Data Analyst | AI Enthusiast
 
 Welcome to my GitHub portfolio! I’m Atinuke Gloria Olugesin, a data analyst and aspiring machine learning engineer with a Master’s in Computer Science and over 6 years of experience in ICT, data analytics, and capacity building. I’m currently enhancing my skills through practical AI/ML courses and building hands-on projects in Python and Power BI.
 
